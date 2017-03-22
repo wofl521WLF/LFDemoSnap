@@ -1,0 +1,6 @@
+framework module Pods_LFDemoSnap {
+  umbrella header "Pods-LFDemoSnap-umbrella.h"
+
+  export *
+  module * { export * }
+}
